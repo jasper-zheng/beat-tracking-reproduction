@@ -9,7 +9,9 @@ See the [`inference.ipynb`](inference.ipynb) notebook. The audio data `BallroomD
 
 ## Inference
 
-Please use the `beats = beatTracker(inputFile)` function in `inference.py`.
+Please use the `beats = beatTracker(inputFile)` function in `inference.py`.  
+
+Or use `python inference.py 'BallroomData/Rumba-American/Albums-Latino_Latino-05.wav'`
 
 ## Acknowledgement  
 
