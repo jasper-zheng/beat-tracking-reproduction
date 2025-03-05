@@ -5,6 +5,7 @@ __pycache__/
 
 BallroomAnnotations
 BallroomData
+spectrograms
 
 # C extensions
 *.so
